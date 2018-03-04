@@ -1,0 +1,354 @@
+Brock
+
+Infernape, Breloom, Slowbro, Goodra, Gyarados, Gothitelle
+
+Names: ['steelix', 'kabutops', 'golem', 'armaldo', 'rhyperior', 'regirock']
+Team: [[u'steel', u'ground'], [u'water', u'rock'], [u'rock', u'ground'], [u'bug', u'rock'], [u'rock', u'ground'], [u'rock']]
+
+[u'steel', u'ground'] Attack Strengths: ['ice', 'rock', 'fairy', 'steel', 'electric', 'fire', 'poison']
+[u'steel', u'ground'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'flying', 'grass', 'bug']
+[u'steel', u'ground'] Defense Weaknesses: ['fire', 'fighting', 'water', 'ground']
+[u'steel', u'ground'] Defense Super Weaknesses: []
+
+[u'water', u'rock'] Attack Strengths: ['fire', 'rock', 'ground', 'flying', 'ice', 'bug']
+[u'water', u'rock'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'fighting', 'ground']
+[u'water', u'rock'] Defense Weaknesses: ['electric', 'fighting', 'ground']
+[u'water', u'rock'] Defense Super Weaknesses: ['grass']
+
+[u'rock', u'ground'] Attack Strengths: ['fire', 'flying', 'ice', 'bug', 'steel', 'electric', 'rock', 'poison']
+[u'rock', u'ground'] Attack Weaknesses: ['steel', 'fighting', 'ground', 'flying', 'grass', 'bug']
+[u'rock', u'ground'] Defense Weaknesses: ['steel', 'ice', 'fighting', 'ground']
+[u'rock', u'ground'] Defense Super Weaknesses: ['water', 'grass']
+
+[u'bug', u'rock'] Attack Strengths: ['grass', 'dark', 'bug', 'fire', 'flying', 'ice']
+[u'bug', u'rock'] Attack Weaknesses: ['ghost', 'steel', 'flying', 'poison', 'fire', 'fairy', 'fighting', 'ground']
+[u'bug', u'rock'] Defense Weaknesses: ['steel', 'water', 'rock', 'bug']
+[u'bug', u'rock'] Defense Super Weaknesses: []
+
+[u'rock', u'ground'] Attack Strengths: ['fire', 'flying', 'ice', 'bug', 'steel', 'electric', 'rock', 'poison']
+[u'rock', u'ground'] Attack Weaknesses: ['steel', 'fighting', 'ground', 'flying', 'grass', 'bug']
+[u'rock', u'ground'] Defense Weaknesses: ['steel', 'ice', 'fighting', 'ground']
+[u'rock', u'ground'] Defense Super Weaknesses: ['water', 'grass']
+
+[u'rock'] Attack Strengths: ['fire', 'flying', 'ice', 'bug']
+[u'rock'] Attack Weaknesses: ['steel', 'fighting', 'ground']
+[u'rock'] Defense Weaknesses: ['steel', 'fighting', 'water', 'grass', 'ground']
+[u'rock'] Defense Super Weaknesses: []
+
+======================================================================================================================================
+
+Chuck
+
+Togekiss, Gothitelle, Altaria, Crobat, Infernape, Talonflame
+
+machamp, poliwrath, >>>>>>infernape<<<<<<, conkeldurr, lucario
+
+Names: ['machamp', 'poliwrath', 'conkeldurr', >>>>>>'primeape'<<<<<<, 'lucario', 'breloom']
+Team: [[u'fighting'], [u'water', u'fighting'], [u'fighting'], [u'fighting'], [u'steel', u'fighting'], [u'grass', u'fighting']]
+
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+
+[u'water', u'fighting'] Attack Strengths: ['fire', 'rock', 'ground', 'normal', 'dark', 'steel', 'ice']
+[u'water', u'fighting'] Attack Weaknesses: ['dragon', 'water', 'grass', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'water', u'fighting'] Defense Weaknesses: ['electric', 'psychic', 'flying', 'fairy', 'grass']
+[u'water', u'fighting'] Defense Super Weaknesses: []
+
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+
+>>>>>>
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+<<<<<<
+
+[u'steel', u'fighting'] Attack Strengths: ['ice', 'rock', 'fairy', 'normal', 'dark', 'steel']
+[u'steel', u'fighting'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'steel', u'fighting'] Defense Weaknesses: ['fire', 'fighting', 'ground']
+[u'steel', u'fighting'] Defense Super Weaknesses: []
+
+[u'grass', u'fighting'] Attack Strengths: ['water', 'ground', 'rock', 'normal', 'dark', 'steel', 'ice']
+[u'grass', u'fighting'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'psychic', 'fairy']
+[u'grass', u'fighting'] Defense Weaknesses: ['fire', 'psychic', 'poison', 'ice', 'fairy']
+[u'grass', u'fighting'] Defense Super Weaknesses: ['flying']
+
+======================================================================================================================================
+
+Erika
+
+Infernape, Gothitelle, Tyranitar, Scolipede, Togekiss, Crobat
+
+Names: ['ferrothorn', 'vileplume', 'volcarona', 'shiftry', >'torterra'<, 'virizion']
+Team: [[u'steel', u'grass'], [u'grass', u'poison'], [u'fire', u'bug'], [u'dark', u'grass'], [u'grass', u'ground'], [u'grass', u'fighting']]
+
+[u'steel', u'grass'] Attack Strengths: ['ice', 'rock', 'fairy', 'water', 'ground']
+[u'steel', u'grass'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'grass', 'flying', 'bug', 'poison', 'dragon']
+[u'steel', u'grass'] Defense Weaknesses: ['fighting']
+[u'steel', u'grass'] Defense Super Weaknesses: ['fire']
+
+[u'grass', u'poison'] Attack Strengths: ['water', 'ground', 'rock', 'fairy', 'grass']
+[u'grass', u'poison'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'rock', 'ground']
+[u'grass', u'poison'] Defense Weaknesses: ['fire', 'psychic', 'flying', 'ice']
+[u'grass', u'poison'] Defense Super Weaknesses: []
+
+[u'fire', u'bug'] Attack Strengths: ['steel', 'grass', 'bug', 'ice', 'dark']
+[u'fire', u'bug'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon', 'ghost', 'steel', 'flying', 'poison', 'fairy', 'fighting']
+[u'fire', u'bug'] Defense Weaknesses: ['flying', 'water']
+[u'fire', u'bug'] Defense Super Weaknesses: ['rock']
+
+[u'dark', u'grass'] Attack Strengths: ['ghost', 'psychic', 'water', 'ground', 'rock']
+[u'dark', u'grass'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon']
+[u'dark', u'grass'] Defense Weaknesses: ['fire', 'flying', 'fighting', 'poison', 'fairy', 'ice']
+[u'dark', u'grass'] Defense Super Weaknesses: ['bug']
+
+[u'grass', u'ground'] Attack Strengths: ['water', 'ground', 'rock', 'steel', 'electric', 'fire', 'poison']
+[u'grass', u'ground'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon']
+[u'grass', u'ground'] Defense Weaknesses: ['fire', 'flying', 'bug']
+[u'grass', u'ground'] Defense Super Weaknesses: ['ice']
+
+[u'grass', u'fighting'] Attack Strengths: ['water', 'ground', 'rock', 'normal', 'dark', 'steel', 'ice']
+[u'grass', u'fighting'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'psychic', 'fairy']
+[u'grass', u'fighting'] Defense Weaknesses: ['fire', 'psychic', 'poison', 'ice', 'fairy']
+[u'grass', u'fighting'] Defense Super Weaknesses: ['flying']
+
+======================================================================================================================================
+
+Oak
+
+Infernape, Gengar, Slowbro, Slaking, Gyarados, Snorlax
+
+Names: ['tauros', 'exeggutor', 'arcanine', 'mega venusaur', 'kangaskhan', 'dragonite']
+Team: [[u'normal'], [u'psychic', u'grass'], [u'grass', u'poison'], [u'fire'], [u'normal'], [u'flying', u'dragon']]
+
+[u'normal'] Attack Strengths: []
+[u'normal'] Attack Weaknesses: ['ghost', 'steel', 'rock']
+[u'normal'] Defense Weaknesses: ['fighting']
+[u'normal'] Defense Super Weaknesses: []
+
+[u'psychic', u'grass'] Attack Strengths: ['poison', 'fighting', 'water', 'ground', 'rock']
+[u'psychic', u'grass'] Attack Weaknesses: ['steel', 'dark', 'psychic', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon']
+[u'psychic', u'grass'] Defense Weaknesses: ['ghost', 'fire', 'flying', 'dark', 'poison', 'bug', 'ice']
+[u'psychic', u'grass'] Defense Super Weaknesses: []
+
+[u'grass', u'poison'] Attack Strengths: ['water', 'ground', 'rock', 'fairy', 'grass']
+[u'grass', u'poison'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'rock', 'ground']
+[u'grass', u'poison'] Defense Weaknesses: ['fire', 'psychic', 'flying', 'ice']
+[u'grass', u'poison'] Defense Super Weaknesses: []
+
+[u'fire'] Attack Strengths: ['steel', 'grass', 'bug', 'ice']
+[u'fire'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon']
+[u'fire'] Defense Weaknesses: ['water', 'rock', 'ground']
+[u'fire'] Defense Super Weaknesses: []
+
+[u'normal'] Attack Strengths: []
+[u'normal'] Attack Weaknesses: ['ghost', 'steel', 'rock']
+[u'normal'] Defense Weaknesses: ['fighting']
+[u'normal'] Defense Super Weaknesses: []
+
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+
+======================================================================================================================================
+
+Pumkin King
+
+Tentacruel, Crobat, Machamp, Rhyperior, Talonflame, Infernape
+
+Names: ['shuckle', 'ludicolo', 'rattata', 'yanmega', 'roserade', 'bisharp']
+Team: [[u'bug', u'rock'], [u'water', u'grass'], [u'normal'], [u'flying', u'bug'], [u'grass', u'poison'], [u'steel', u'dark']]
+
+[u'bug', u'rock'] Attack Strengths: ['grass', 'dark', 'bug', 'fire', 'flying', 'ice']
+[u'bug', u'rock'] Attack Weaknesses: ['ghost', 'steel', 'flying', 'poison', 'fire', 'fairy', 'fighting', 'ground']
+[u'bug', u'rock'] Defense Weaknesses: ['steel', 'water', 'rock', 'bug']
+[u'bug', u'rock'] Defense Super Weaknesses: []
+
+[u'water', u'grass'] Attack Strengths: ['fire', 'rock', 'ground', 'water']
+[u'water', u'grass'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'fire', 'flying', 'bug', 'poison']
+[u'water', u'grass'] Defense Weaknesses: ['flying', 'poison', 'bug']
+[u'water', u'grass'] Defense Super Weaknesses: []
+
+[u'normal'] Attack Strengths: []
+[u'normal'] Attack Weaknesses: ['ghost', 'steel', 'rock']
+[u'normal'] Defense Weaknesses: ['fighting']
+[u'normal'] Defense Super Weaknesses: []
+
+[u'flying', u'bug'] Attack Strengths: ['fighting', 'grass', 'bug', 'dark']
+[u'flying', u'bug'] Attack Weaknesses: ['steel', 'electric', 'rock', 'ghost', 'flying', 'poison', 'fire', 'fairy', 'fighting']
+[u'flying', u'bug'] Defense Weaknesses: ['electric', 'fire', 'flying', 'ice']
+[u'flying', u'bug'] Defense Super Weaknesses: ['rock']
+
+[u'grass', u'poison'] Attack Strengths: ['water', 'ground', 'rock', 'fairy', 'grass']
+[u'grass', u'poison'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'rock', 'ground']
+[u'grass', u'poison'] Defense Weaknesses: ['fire', 'psychic', 'flying', 'ice']
+[u'grass', u'poison'] Defense Super Weaknesses: []
+
+[u'steel', u'dark'] Attack Strengths: ['ice', 'rock', 'fairy', 'ghost', 'psychic']
+[u'steel', u'dark'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'dark', 'fairy', 'fighting']
+[u'steel', u'dark'] Defense Weaknesses: ['fire', 'ground']
+[u'steel', u'dark'] Defense Super Weaknesses: ['fighting']
+
+======================================================================================================================================
+
+Naero
+
+Gyarados, Machamp, Gengar, Breloom, Slaking, Swampert
+
+Names: ['togekiss', 'snorlax', 'mr-mime', 'blissey', 'electivire', 'magmortar']
+Team: [[u'fairy', u'flying'], [u'normal'], [u'fairy', u'psychic'], [u'normal'], [u'electric'], [u'fire']]
+
+[u'fairy', u'flying'] Attack Strengths: ['dragon', 'dark', 'fighting', 'grass', 'bug']
+[u'fairy', u'flying'] Attack Weaknesses: ['steel', 'fire', 'poison', 'electric', 'rock']
+[u'fairy', u'flying'] Defense Weaknesses: ['steel', 'electric', 'poison', 'rock', 'ice']
+[u'fairy', u'flying'] Defense Super Weaknesses: []
+
+[u'normal'] Attack Strengths: []
+[u'normal'] Attack Weaknesses: ['ghost', 'steel', 'rock']
+[u'normal'] Defense Weaknesses: ['fighting']
+[u'normal'] Defense Super Weaknesses: []
+
+[u'fairy', u'psychic'] Attack Strengths: ['dragon', 'dark', 'fighting', 'poison']
+[u'fairy', u'psychic'] Attack Weaknesses: ['steel', 'fire', 'poison', 'dark', 'psychic']
+[u'fairy', u'psychic'] Defense Weaknesses: ['steel', 'ghost', 'poison']
+[u'fairy', u'psychic'] Defense Super Weaknesses: []
+
+[u'normal'] Attack Strengths: []
+[u'normal'] Attack Weaknesses: ['ghost', 'steel', 'rock']
+[u'normal'] Defense Weaknesses: ['fighting']
+[u'normal'] Defense Super Weaknesses: []
+
+[u'electric'] Attack Strengths: ['flying', 'water']
+[u'electric'] Attack Weaknesses: ['electric', 'dragon', 'grass', 'ground']
+[u'electric'] Defense Weaknesses: ['ground']
+[u'electric'] Defense Super Weaknesses: []
+
+[u'fire'] Attack Strengths: ['steel', 'grass', 'bug', 'ice']
+[u'fire'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon']
+[u'fire'] Defense Weaknesses: ['water', 'rock', 'ground']
+[u'fire'] Defense Super Weaknesses: []
+
+
+======================================================================================================================================
+
+Koichi
+
+Gengar, Gothitelle, Altaria, Togekiss, Talonflame, Azumarill
+
+Lucario, Hitmontop, Gallade, Poliwrath, Pangoro, Terrakion 
+
+2xLucario, 3xHitmontop, Heracross, 2xPoliwrath, Machamp, Cobalion, 2xGallade, Pangoro, Terrakion, Hariyama, Sawk, Conkeldurr, Virizion
+Hitmontop, Lucario, Poliwrath, Gallade, Heracross, Machamp, Cobalion, Pangoro, Terrakion, Hariyama, Sawk, Conkeldurr, Virizion
+
+Names: ['hitmontop', 'lucario', 'poliwrath', 'gallade', 'heracross', 'machamp', 'cobalion', 'pangoro', 'terrakion', 'hariyama', 'sawk', 'conkeldurr', 'virizion']
+Team: [[u'fighting'], [u'steel', u'fighting'], [u'water', u'fighting'], [u'psychic', u'fighting'], [u'bug', u'fighting'], [u'fighting'], [u'steel', u'fighting'], [u'dark', u'fighting'], [u'fighting', u'rock'], [u'fighting'], [u'fighting'], [u'fighting'], [u'grass', u'fighting']]
+
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'steel', u'fighting'] Attack Strengths: ['ice', 'rock', 'fairy', 'normal', 'dark', 'steel']
+[u'steel', u'fighting'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'steel', u'fighting'] Defense Weaknesses: ['fire', 'fighting', 'ground']
+[u'steel', u'fighting'] Defense Super Weaknesses: []
+[u'water', u'fighting'] Attack Strengths: ['fire', 'rock', 'ground', 'normal', 'dark', 'steel', 'ice']
+[u'water', u'fighting'] Attack Weaknesses: ['dragon', 'water', 'grass', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'water', u'fighting'] Defense Weaknesses: ['electric', 'psychic', 'flying', 'fairy', 'grass']
+[u'water', u'fighting'] Defense Super Weaknesses: []
+[u'psychic', u'fighting'] Attack Strengths: ['poison', 'fighting', 'normal', 'dark', 'steel', 'ice', 'rock']
+[u'psychic', u'fighting'] Attack Weaknesses: ['steel', 'dark', 'psychic', 'ghost', 'poison', 'bug', 'flying', 'fairy']
+[u'psychic', u'fighting'] Defense Weaknesses: ['ghost', 'flying', 'fairy']
+[u'psychic', u'fighting'] Defense Super Weaknesses: []
+
+[u'bug', u'fighting'] Attack Strengths: ['grass', 'dark', 'bug', 'normal', 'steel', 'ice', 'rock']
+[u'bug', u'fighting'] Attack Weaknesses: ['ghost', 'steel', 'flying', 'poison', 'fire', 'fairy', 'fighting', 'bug', 'psychic']
+[u'bug', u'fighting'] Defense Weaknesses: ['fire', 'psychic', 'fairy']
+[u'bug', u'fighting'] Defense Super Weaknesses: ['flying']
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'steel', u'fighting'] Attack Strengths: ['ice', 'rock', 'fairy', 'normal', 'dark', 'steel']
+[u'steel', u'fighting'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'steel', u'fighting'] Defense Weaknesses: ['fire', 'fighting', 'ground']
+[u'steel', u'fighting'] Defense Super Weaknesses: []
+[u'dark', u'fighting'] Attack Strengths: ['ghost', 'psychic', 'normal', 'dark', 'steel', 'ice', 'rock']
+[u'dark', u'fighting'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'ghost', 'poison', 'bug', 'psychic', 'flying']
+[u'dark', u'fighting'] Defense Weaknesses: ['flying', 'fighting']
+[u'dark', u'fighting'] Defense Super Weaknesses: ['fairy']
+[u'fighting', u'rock'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock', 'fire', 'flying', 'bug']
+[u'fighting', u'rock'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy', 'steel', 'fighting', 'ground']
+[u'fighting', u'rock'] Defense Weaknesses: ['steel', 'water', 'psychic', 'fighting', 'fairy', 'grass', 'ground']
+[u'fighting', u'rock'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'grass', u'fighting'] Attack Strengths: ['water', 'ground', 'rock', 'normal', 'dark', 'steel', 'ice']
+[u'grass', u'fighting'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon', 'ghost', 'psychic', 'fairy']
+[u'grass', u'fighting'] Defense Weaknesses: ['fire', 'psychic', 'poison', 'ice', 'fairy']
+[u'grass', u'fighting'] Defense Super Weaknesses: ['flying']
+
+======================================================================================================================================
+
+Wargreymon
+
+Slaking, Infernape, Aerodactyl, Machamp, Tentacruel, Crobat
+
+Names: ['luxray', 'lucario', 'mega altaria', 'aggron', 'ninetales', 'sceptile']
+Team: [[u'electric'], [u'steel', u'fighting'], >>>>>>[u'flying'>fairy<, u'dragon']<<<<<<, [u'steel', u'rock'], [u'fire'], [u'grass']]
+
+[u'electric'] Attack Strengths: ['flying', 'water']
+[u'electric'] Attack Weaknesses: ['electric', 'dragon', 'grass', 'ground']
+[u'electric'] Defense Weaknesses: ['ground']
+[u'electric'] Defense Super Weaknesses: []
+
+[u'steel', u'fighting'] Attack Strengths: ['ice', 'rock', 'fairy', 'normal', 'dark', 'steel']
+[u'steel', u'fighting'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'steel', u'fighting'] Defense Weaknesses: ['fire', 'fighting', 'ground']
+[u'steel', u'fighting'] Defense Super Weaknesses: []
+
+>>>>>>
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+<<<<<<
+poison, steel, ice, fairy
+<<<<<<
+
+[u'steel', u'rock'] Attack Strengths: ['ice', 'rock', 'fairy', 'fire', 'flying', 'bug']
+[u'steel', u'rock'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'fighting', 'ground']
+[u'steel', u'rock'] Defense Weaknesses: ['water']
+[u'steel', u'rock'] Defense Super Weaknesses: ['fighting', 'ground']
+
+[u'fire'] Attack Strengths: ['steel', 'grass', 'bug', 'ice']
+[u'fire'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon']
+[u'fire'] Defense Weaknesses: ['water', 'rock', 'ground']
+[u'fire'] Defense Super Weaknesses: []
+
+[u'grass'] Attack Strengths: ['water', 'ground', 'rock']
+[u'grass'] Attack Weaknesses: ['steel', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon']
+[u'grass'] Defense Weaknesses: ['fire', 'flying', 'poison', 'ice', 'bug']
+[u'grass'] Defense Super Weaknesses: []
+
+======================================================================================================================================
+
+Sgath and Keres
+
+
+======================================================================================================================================

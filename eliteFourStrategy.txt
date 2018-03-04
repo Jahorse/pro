@@ -1,0 +1,284 @@
+Lorelei - magneton
+Bruno - xatu with steel wing or solar beam
+Agatha - kadabra
+Lance - blastoise w/ rock slide, ice beam, hydro pump
+Gary - blastoise again?
+slaking
+?
+
+Elite Four Member: Lorelei
+Type: Ice
+Pokémon: Dewgong, Slowbro, Lapras, Jynx, Cloyster
+
+best attacker: Steel/Electric
+
+Attack Weaknesses:
+steel: 5
+dark: 1
+fire: 4
+psychic: 1
+ice: 4
+water: 4
+
+Defense Weaknesses:
+ghost: 2
+steel: 1
+electric: 4
+fire: 1
+fighting: 3
+dark: 2
+rock: 4
+grass: 4
+
+[u'water', u'ice'] Attack Strengths: ['fire', 'rock', 'ground', 'grass', 'flying', 'dragon']
+[u'water', u'ice'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'fire', 'ice']
+[u'water', u'ice'] Defense Weaknesses: ['electric', 'fighting', 'rock', 'grass']
+[u'water', u'ice'] Defense Super Weaknesses: []
+[u'water', u'psychic'] Attack Strengths: ['fire', 'rock', 'ground', 'poison', 'fighting']
+[u'water', u'psychic'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'dark', 'psychic']
+[u'water', u'psychic'] Defense Weaknesses: ['dark', 'electric', 'ghost', 'grass']
+[u'water', u'psychic'] Defense Super Weaknesses: []
+[u'water', u'ice'] Attack Strengths: ['fire', 'rock', 'ground', 'grass', 'flying', 'dragon']
+[u'water', u'ice'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'fire', 'ice']
+[u'water', u'ice'] Defense Weaknesses: ['electric', 'fighting', 'rock', 'grass']
+[u'water', u'ice'] Defense Super Weaknesses: []
+[u'psychic', u'ice'] Attack Strengths: ['poison', 'fighting', 'grass', 'ground', 'flying', 'dragon']
+[u'psychic', u'ice'] Attack Weaknesses: ['steel', 'dark', 'psychic', 'water', 'fire', 'ice']
+[u'psychic', u'ice'] Defense Weaknesses: ['ghost', 'steel', 'fire', 'dark', 'rock']
+[u'psychic', u'ice'] Defense Super Weaknesses: []
+[u'water', u'ice'] Attack Strengths: ['fire', 'rock', 'ground', 'grass', 'flying', 'dragon']
+[u'water', u'ice'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'fire', 'ice']
+[u'water', u'ice'] Defense Weaknesses: ['electric', 'fighting', 'rock', 'grass']
+[u'water', u'ice'] Defense Super Weaknesses: []
+
+Evaluation: All weak at attacking steel, 4/5 weak against electric and last one weak against steel
+magneton
+
+-------------------------------------------------------
+
+Elite Four Member: Bruno
+Type: Fighting
+Pokémon: Onix, Hitmonlee, Hitmonchan, Machamp, Onix
+
+best attacker: flying/psychic
+
+Attack Weaknesses:
+ghost: 3
+psychic: 3
+flying: 5
+poison: 3
+fairy: 3
+grass: 2
+bug: 5
+
+Defense Weaknesses:
+steel: 2
+psychic: 3
+flying: 3
+fighting: 2
+ice: 2
+fairy: 3
+ground: 2
+
+Defense Super Weaknesses:
+water: 2
+grass: 2
+
+[u'rock', u'ground'] Attack Strengths: ['fire', 'flying', 'ice', 'bug', 'steel', 'electric', 'rock', 'poison']
+[u'rock', u'ground'] Attack Weaknesses: ['steel', 'fighting', 'ground', 'flying', 'grass', 'bug']
+[u'rock', u'ground'] Defense Weaknesses: ['steel', 'ice', 'fighting', 'ground']
+[u'rock', u'ground'] Defense Super Weaknesses: ['water', 'grass']
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'rock', u'ground'] Attack Strengths: ['fire', 'flying', 'ice', 'bug', 'steel', 'electric', 'rock', 'poison']
+[u'rock', u'ground'] Attack Weaknesses: ['steel', 'fighting', 'ground', 'flying', 'grass', 'bug']
+[u'rock', u'ground'] Defense Weaknesses: ['steel', 'ice', 'fighting', 'ground']
+[u'rock', u'ground'] Defense Super Weaknesses: ['water', 'grass']
+
+Evaluation: Need something quick and hard hitting that isn't weak against rock, ground, and fighting
+ water? grass? fighting? 
+ xatu with steel wing or solar beam
+
+-------------------------------------------------------
+
+Elite Four Member: Agatha
+Type: Ghost
+Pokémon: Gengar, Crobat, Haunter, Arbok, Mega Gengar
+
+best type: psychic + steel/ghost/rock/poison/ground
+
+Attack Weaknesses:
+steel: 5
+ghost: 5
+ground: 5
+poison: 5
+rock: 5
+
+Defense Weaknesses:
+ghost: 3
+electric: 1
+psychic: 5
+ice: 1
+dark: 3
+rock: 1
+ground: 4
+
+[u'ghost', u'poison'] Attack Strengths: ['ghost', 'psychic', 'fairy', 'grass']
+[u'ghost', u'poison'] Attack Weaknesses: ['dark', 'normal', 'steel', 'ghost', 'poison', 'rock', 'ground']
+[u'ghost', u'poison'] Defense Weaknesses: ['ghost', 'psychic', 'dark', 'ground']
+[u'ghost', u'poison'] Defense Super Weaknesses: []
+[u'flying', u'poison'] Attack Strengths: ['fighting', 'grass', 'bug', 'fairy']
+[u'flying', u'poison'] Attack Weaknesses: ['steel', 'electric', 'rock', 'ghost', 'poison', 'ground']
+[u'flying', u'poison'] Defense Weaknesses: ['electric', 'psychic', 'ice', 'rock']
+[u'flying', u'poison'] Defense Super Weaknesses: []
+[u'ghost', u'poison'] Attack Strengths: ['ghost', 'psychic', 'fairy', 'grass']
+[u'ghost', u'poison'] Attack Weaknesses: ['dark', 'normal', 'steel', 'ghost', 'poison', 'rock', 'ground']
+[u'ghost', u'poison'] Defense Weaknesses: ['ghost', 'psychic', 'dark', 'ground']
+[u'ghost', u'poison'] Defense Super Weaknesses: []
+[u'poison'] Attack Strengths: ['fairy', 'grass']
+[u'poison'] Attack Weaknesses: ['steel', 'ghost', 'poison', 'rock', 'ground']
+[u'poison'] Defense Weaknesses: ['psychic', 'ground']
+[u'poison'] Defense Super Weaknesses: []
+[u'ghost', u'poison'] Attack Strengths: ['ghost', 'psychic', 'fairy', 'grass']
+[u'ghost', u'poison'] Attack Weaknesses: ['dark', 'normal', 'steel', 'ghost', 'poison', 'rock', 'ground']
+[u'ghost', u'poison'] Defense Weaknesses: ['ghost', 'psychic', 'dark', 'ground']
+[u'ghost', u'poison'] Defense Super Weaknesses: []
+
+Evaluation: psychic
+
+-------------------------------------------------------
+
+Elite Four Member: Lance
+Type: Dragon
+Pokémon: Gyarados, Dragonair, Dragonite, Aerodactyl, Tyranitar, Charizard
+
+Attack Weaknesses:
+steel: 6
+electric: 2
+fighting: 2
+rock: 2
+fairy: 2
+ground: 2
+
+Defense Weaknesses:
+steel: 2
+electric: 2
+ice: 2
+dragon: 2
+water: 3
+rock: 3
+fairy: 3
+grass: 1
+bug: 1
+ground: 1
+
+Defense Super Weaknesses:
+fighting: 1
+electric: 1
+ice: 1
+rock: 1
+
+[u'water', u'flying'] Attack Strengths: ['fire', 'rock', 'ground', 'fighting', 'grass', 'bug']
+[u'water', u'flying'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'electric', 'rock']
+[u'water', u'flying'] Defense Weaknesses: ['rock']
+[u'water', u'flying'] Defense Super Weaknesses: ['electric']
+[u'dragon'] Attack Strengths: ['dragon']
+[u'dragon'] Attack Weaknesses: ['steel', 'fairy']
+[u'dragon'] Defense Weaknesses: ['ice', 'dragon', 'fairy']
+[u'dragon'] Defense Super Weaknesses: []
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+[u'flying', u'rock'] Attack Strengths: ['fighting', 'grass', 'bug', 'fire', 'flying', 'ice']
+[u'flying', u'rock'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fighting', 'ground']
+[u'flying', u'rock'] Defense Weaknesses: ['steel', 'electric', 'water', 'ice', 'rock']
+[u'flying', u'rock'] Defense Super Weaknesses: []
+[u'dark', u'rock'] Attack Strengths: ['ghost', 'psychic', 'fire', 'flying', 'ice', 'bug']
+[u'dark', u'rock'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'steel', 'ground']
+[u'dark', u'rock'] Defense Weaknesses: ['steel', 'water', 'fairy', 'grass', 'bug', 'ground']
+[u'dark', u'rock'] Defense Super Weaknesses: ['fighting']
+[u'fire', u'flying'] Attack Strengths: ['steel', 'grass', 'bug', 'ice', 'fighting']
+[u'fire', u'flying'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon', 'steel', 'electric']
+[u'fire', u'flying'] Defense Weaknesses: ['electric', 'water']
+[u'fire', u'flying'] Defense Super Weaknesses: ['rock']
+
+Evaluation: blastoise w/ rock slide, ice beam, hydro pump
+
+---------------------------------------------------------
+
+Champ: Gary
+Type: ???
+Pokémon: Pidgeot, Alakazam, Rhydon, Arcanine, Mega Blastoise, Exeggutor
+
+Attack Weaknesses:
+ghost: 2
+steel: 4
+fire: 2
+psychic: 1
+flying: 2
+water: 1
+poison: 2
+dragon: 2
+dark: 1
+rock: 3
+grass: 2
+bug: 2
+ground: 1
+
+Defense Weaknesses:
+ghost: 2
+steel: 1
+electric: 1
+fire: 2
+psychic: 1
+flying: 2
+water: 1
+ice: 4
+poison: 1
+dark: 2
+fighting: 1
+rock: 2
+bug: 1
+ground: 2
+
+Defense Super Weaknesses:
+water: 1
+grass: 1
+
+[u'flying', u'normal'] Attack Strengths: ['fighting', 'grass', 'bug']
+[u'flying', u'normal'] Attack Weaknesses: ['steel', 'electric', 'rock', 'ghost']
+[u'flying', u'normal'] Defense Weaknesses: ['electric', 'ice', 'rock']
+[u'flying', u'normal'] Defense Super Weaknesses: []
+[u'psychic'] Attack Strengths: ['poison', 'fighting']
+[u'psychic'] Attack Weaknesses: ['steel', 'dark', 'psychic']
+[u'psychic'] Defense Weaknesses: ['dark', 'ghost']
+[u'psychic'] Defense Super Weaknesses: []
+[u'rock', u'ground'] Attack Strengths: ['fire', 'flying', 'ice', 'bug', 'steel', 'electric', 'rock', 'poison']
+[u'rock', u'ground'] Attack Weaknesses: ['steel', 'fighting', 'ground', 'flying', 'grass', 'bug']
+[u'rock', u'ground'] Defense Weaknesses: ['steel', 'ice', 'fighting', 'ground']
+[u'rock', u'ground'] Defense Super Weaknesses: ['water', 'grass']
+[u'fire'] Attack Strengths: ['steel', 'grass', 'bug', 'ice']
+[u'fire'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon']
+[u'fire'] Defense Weaknesses: ['water', 'rock', 'ground']
+[u'fire'] Defense Super Weaknesses: []
+[u'water'] Attack Strengths: ['fire', 'rock', 'ground']
+[u'water'] Attack Weaknesses: ['dragon', 'water', 'grass']
+[u'water'] Defense Weaknesses: ['electric', 'grass']
+[u'water'] Defense Super Weaknesses: []
+[u'psychic', u'grass'] Attack Strengths: ['poison', 'fighting', 'water', 'ground', 'rock']
+[u'psychic', u'grass'] Attack Weaknesses: ['steel', 'dark', 'psychic', 'grass', 'fire', 'flying', 'bug', 'poison', 'dragon']
+[u'psychic', u'grass'] Defense Weaknesses: ['ghost', 'fire', 'flying', 'dark', 'poison', 'bug', 'ice']
+[u'psychic', u'grass'] Defense Super Weaknesses: []
+
+blastoise again?

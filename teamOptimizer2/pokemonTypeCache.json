@@ -1,0 +1,538 @@
+{
+    "abomasnow": [
+        "grass", 
+        "ice"
+    ], 
+    "absol": [
+        "dark"
+    ], 
+    "aerodactyl": [
+        "flying", 
+        "rock"
+    ], 
+    "aggron": [
+        "steel", 
+        "rock"
+    ], 
+    "alakazam": [
+        "psychic"
+    ], 
+    "altaria": [
+        "flying", 
+        "dragon"
+    ], 
+    "amoonguss": [
+        "grass", 
+        "poison"
+    ], 
+    "arbok": [
+        "poison"
+    ], 
+    "arcanine": [
+        "fire"
+    ], 
+    "armaldo": [
+        "bug", 
+        "rock"
+    ], 
+    "azumarill": [
+        "water", 
+        "fairy"
+    ], 
+    "beedrill": [
+        "bug", 
+        "poison"
+    ], 
+    "bisharp": [
+        "steel", 
+        "dark"
+    ], 
+    "blastoise": [
+        "water"
+    ], 
+    "blaziken": [
+        "fire", 
+        "fighting"
+    ], 
+    "blissey": [
+        "normal"
+    ], 
+    "breloom": [
+        "grass", 
+        "fighting"
+    ], 
+    "bronzong": [
+        "steel", 
+        "psychic"
+    ], 
+    "cacturne": [
+        "dark", 
+        "grass"
+    ], 
+    "charizard": [
+        "fire", 
+        "flying"
+    ], 
+    "clefairy": [
+        "fairy"
+    ], 
+    "cloyster": [
+        "water", 
+        "ice"
+    ], 
+    "cobalion": [
+        "steel", 
+        "fighting"
+    ], 
+    "cofagrigus": [
+        "ghost"
+    ], 
+    "conkeldurr": [
+        "fighting"
+    ], 
+    "crobat": [
+        "flying", 
+        "poison"
+    ], 
+    "cubchoo": [
+        "ice"
+    ], 
+    "dewgong": [
+        "water", 
+        "ice"
+    ], 
+    "dragalge": [
+        "poison", 
+        "dragon"
+    ], 
+    "dragonair": [
+        "dragon"
+    ], 
+    "dragonite": [
+        "flying", 
+        "dragon"
+    ], 
+    "dratini": [
+        "dragon"
+    ], 
+    "dusknoir": [
+        "ghost"
+    ], 
+    "dustox": [
+        "bug", 
+        "poison"
+    ], 
+    "electivire": [
+        "electric"
+    ], 
+    "electrode": [
+        "electric"
+    ], 
+    "entei": [
+        "fire"
+    ], 
+    "espeon": [
+        "psychic"
+    ], 
+    "exeggutor": [
+        "psychic", 
+        "grass"
+    ], 
+    "fearow": [
+        "flying", 
+        "normal"
+    ], 
+    "ferrothorn": [
+        "steel", 
+        "grass"
+    ], 
+    "flygon": [
+        "dragon", 
+        "ground"
+    ], 
+    "furret": [
+        "normal"
+    ], 
+    "gallade": [
+        "psychic", 
+        "fighting"
+    ], 
+    "garchomp": [
+        "dragon", 
+        "ground"
+    ], 
+    "gardevoir": [
+        "fairy", 
+        "psychic"
+    ], 
+    "gastly": [
+        "ghost", 
+        "poison"
+    ], 
+    "gengar": [
+        "ghost", 
+        "poison"
+    ], 
+    "glaceon": [
+        "ice"
+    ], 
+    "glalie": [
+        "ice"
+    ], 
+    "golem": [
+        "rock", 
+        "ground"
+    ], 
+    "gothitelle": [
+        "psychic"
+    ], 
+    "granbull": [
+        "fairy"
+    ], 
+    "greninja": [
+        "water", 
+        "dark"
+    ], 
+    "grumpig": [
+        "psychic"
+    ], 
+    "gyarados": [
+        "water", 
+        "flying"
+    ], 
+    "hariyama": [
+        "fighting"
+    ], 
+    "haunter": [
+        "ghost", 
+        "poison"
+    ], 
+    "heracross": [
+        "bug", 
+        "fighting"
+    ], 
+    "hitmonchan": [
+        "fighting"
+    ], 
+    "hitmonlee": [
+        "fighting"
+    ], 
+    "hitmontop": [
+        "fighting"
+    ], 
+    "honchkrow": [
+        "dark", 
+        "flying"
+    ], 
+    "houndoom": [
+        "fire", 
+        "dark"
+    ], 
+    "hydreigon": [
+        "dark", 
+        "dragon"
+    ], 
+    "infernape": [
+        "fire", 
+        "fighting"
+    ], 
+    "jellicent": [
+        "ghost", 
+        "water"
+    ], 
+    "jolteon": [
+        "electric"
+    ], 
+    "jynx": [
+        "psychic", 
+        "ice"
+    ], 
+    "kabutops": [
+        "water", 
+        "rock"
+    ], 
+    "kangaskhan": [
+        "normal"
+    ], 
+    "klefki": [
+        "steel", 
+        "fairy"
+    ], 
+    "kyurem": [
+        "ice", 
+        "dragon"
+    ], 
+    "lapras": [
+        "water", 
+        "ice"
+    ], 
+    "leafeon": [
+        "grass"
+    ], 
+    "lileep": [
+        "grass", 
+        "rock"
+    ], 
+    "linoone": [
+        "normal"
+    ], 
+    "lucario": [
+        "steel", 
+        "fighting"
+    ], 
+    "ludicolo": [
+        "water", 
+        "grass"
+    ], 
+    "lugia": [
+        "psychic", 
+        "flying"
+    ], 
+    "luxray": [
+        "electric"
+    ], 
+    "machamp": [
+        "fighting"
+    ], 
+    "magmortar": [
+        "fire"
+    ], 
+    "magneton": [
+        "steel", 
+        "electric"
+    ], 
+    "magnezone": [
+        "steel", 
+        "electric"
+    ], 
+    "malamar": [
+        "dark", 
+        "psychic"
+    ], 
+    "mamoswine": [
+        "ice", 
+        "ground"
+    ], 
+    "mareep": [
+        "electric"
+    ], 
+    "marowak": [
+        "ground"
+    ], 
+    "mawile": [
+        "steel", 
+        "fairy"
+    ], 
+    "medicham": [
+        "psychic", 
+        "fighting"
+    ], 
+    "miltank": [
+        "normal"
+    ], 
+    "mismagius": [
+        "ghost"
+    ], 
+    "moltres": [
+        "fire", 
+        "flying"
+    ], 
+    "muk": [
+        "poison"
+    ], 
+    "murkrow": [
+        "dark", 
+        "flying"
+    ], 
+    "onix": [
+        "rock", 
+        "ground"
+    ], 
+    "parasect": [
+        "grass", 
+        "bug"
+    ], 
+    "pidgeot": [
+        "flying", 
+        "normal"
+    ], 
+    "pikachu": [
+        "electric"
+    ], 
+    "piloswine": [
+        "ice", 
+        "ground"
+    ], 
+    "pinsir": [
+        "bug"
+    ], 
+    "poliwrath": [
+        "water", 
+        "fighting"
+    ], 
+    "porygon": [
+        "normal"
+    ], 
+    "primeape": [
+        "fighting"
+    ], 
+    "rattata": [
+        "normal"
+    ], 
+    "regirock": [
+        "rock"
+    ], 
+    "reshiram": [
+        "fire", 
+        "dragon"
+    ], 
+    "rhydon": [
+        "rock", 
+        "ground"
+    ], 
+    "rhyperior": [
+        "rock", 
+        "ground"
+    ], 
+    "roserade": [
+        "grass", 
+        "poison"
+    ], 
+    "salamence": [
+        "flying", 
+        "dragon"
+    ], 
+    "sandile": [
+        "dark", 
+        "ground"
+    ], 
+    "sceptile": [
+        "grass"
+    ], 
+    "scolipede": [
+        "bug", 
+        "poison"
+    ], 
+    "scyther": [
+        "flying", 
+        "bug"
+    ], 
+    "seviper": [
+        "poison"
+    ], 
+    "shiftry": [
+        "dark", 
+        "grass"
+    ], 
+    "shuckle": [
+        "bug", 
+        "rock"
+    ], 
+    "skarmory": [
+        "steel", 
+        "flying"
+    ], 
+    "skuntank": [
+        "dark", 
+        "poison"
+    ], 
+    "slowbro": [
+        "water", 
+        "psychic"
+    ], 
+    "snorlax": [
+        "normal"
+    ], 
+    "snorunt": [
+        "ice"
+    ], 
+    "spiritomb": [
+        "ghost", 
+        "dark"
+    ], 
+    "starmie": [
+        "water", 
+        "psychic"
+    ], 
+    "steelix": [
+        "steel", 
+        "ground"
+    ], 
+    "sylveon": [
+        "fairy"
+    ], 
+    "talonflame": [
+        "fire", 
+        "flying"
+    ], 
+    "tauros": [
+        "normal"
+    ], 
+    "togekiss": [
+        "fairy", 
+        "flying"
+    ], 
+    "totodile": [
+        "water"
+    ], 
+    "toxicroak": [
+        "poison", 
+        "fighting"
+    ], 
+    "tyranitar": [
+        "dark", 
+        "rock"
+    ], 
+    "umbreon": [
+        "dark"
+    ], 
+    "venomoth": [
+        "bug", 
+        "poison"
+    ], 
+    "venusaur": [
+        "grass", 
+        "poison"
+    ], 
+    "vileplume": [
+        "grass", 
+        "poison"
+    ], 
+    "virizion": [
+        "grass", 
+        "fighting"
+    ], 
+    "volcarona": [
+        "fire", 
+        "bug"
+    ], 
+    "walrein": [
+        "water", 
+        "ice"
+    ], 
+    "weavile": [
+        "dark", 
+        "ice"
+    ], 
+    "weezing": [
+        "poison"
+    ], 
+    "wobbuffet": [
+        "psychic"
+    ], 
+    "xatu": [
+        "psychic", 
+        "flying"
+    ], 
+    "xerneas": [
+        "fairy"
+    ], 
+    "yanmega": [
+        "flying", 
+        "bug"
+    ], 
+    "yveltal": [
+        "dark", 
+        "flying"
+    ]
+}

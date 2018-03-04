@@ -1,0 +1,174 @@
+Elite Four Member: Willi
+Type: Psychic
+Pokémon: Bronzong, Jynx, Grumpig, Slowbro, Gardevoir, Mega Alakazam
+
+Team: [[u'steel', u'psychic'], [u'psychic', u'ice'], [u'psychic'], [u'water', u'psychic'], [u'fairy', u'psychic'], [u'psychic']]
+[u'steel', u'psychic'] Attack Strengths: ['ice', 'rock', 'fairy', 'poison', 'fighting']
+[u'steel', u'psychic'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'dark', 'psychic']
+[u'steel', u'psychic'] Defense Weaknesses: ['ghost', 'fire', 'dark', 'ground']
+[u'steel', u'psychic'] Defense Super Weaknesses: []
+[u'psychic', u'ice'] Attack Strengths: ['poison', 'fighting', 'grass', 'ground', 'flying', 'dragon']
+[u'psychic', u'ice'] Attack Weaknesses: ['steel', 'dark', 'psychic', 'water', 'fire', 'ice']
+[u'psychic', u'ice'] Defense Weaknesses: ['ghost', 'steel', 'fire', 'dark', 'rock']
+[u'psychic', u'ice'] Defense Super Weaknesses: []
+[u'psychic'] Attack Strengths: ['poison', 'fighting']
+[u'psychic'] Attack Weaknesses: ['steel', 'dark', 'psychic']
+[u'psychic'] Defense Weaknesses: ['dark', 'ghost']
+[u'psychic'] Defense Super Weaknesses: []
+[u'water', u'psychic'] Attack Strengths: ['fire', 'rock', 'ground', 'poison', 'fighting']
+[u'water', u'psychic'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'dark', 'psychic']
+[u'water', u'psychic'] Defense Weaknesses: ['dark', 'electric', 'ghost', 'grass']
+[u'water', u'psychic'] Defense Super Weaknesses: []
+[u'fairy', u'psychic'] Attack Strengths: ['dragon', 'dark', 'fighting', 'poison']
+[u'fairy', u'psychic'] Attack Weaknesses: ['steel', 'fire', 'poison', 'dark', 'psychic']
+[u'fairy', u'psychic'] Defense Weaknesses: ['steel', 'ghost', 'poison']
+[u'fairy', u'psychic'] Defense Super Weaknesses: []
+[u'psychic'] Attack Strengths: ['poison', 'fighting']
+[u'psychic'] Attack Weaknesses: ['steel', 'dark', 'psychic']
+[u'psychic'] Defense Weaknesses: ['dark', 'ghost']
+[u'psychic'] Defense Super Weaknesses: []
+
+dark/ghost, Gardevoir is somehow strong and weak against dark on attack (actually evens out to normal)
+all weak to ghost
+Gengar - Gengar is weak to psychics because of poison typing, will be weak against all of them. Decent base speed though
+Sandile - Will be weak against Jynx and Slowbro, Jynx has higher base speed
+
+-----------------------------------------------------------------------------------------------------------------
+
+Elite Four Member: Koga
+Type: Poison
+Pokémon: Skuntank, Venomoth, Toxicroak, Muk, Crobat, Mega Beedrill
+
+Team: [[u'dark', u'poison'], [u'bug', u'poison'], [u'poison', u'fighting'], [u'poison'], [u'flying', u'poison'], [u'bug', u'poison']]
+[u'dark', u'poison'] Attack Strengths: ['ghost', 'psychic', 'fairy', 'grass']
+[u'dark', u'poison'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'steel', 'ghost', 'poison', 'rock', 'ground']
+[u'dark', u'poison'] Defense Weaknesses: ['ground']
+[u'dark', u'poison'] Defense Super Weaknesses: []
+[u'bug', u'poison'] Attack Strengths: ['grass', 'dark', 'bug', 'fairy']
+[u'bug', u'poison'] Attack Weaknesses: ['ghost', 'steel', 'flying', 'poison', 'fire', 'fairy', 'fighting', 'rock', 'ground']
+[u'bug', u'poison'] Defense Weaknesses: ['fire', 'psychic', 'flying', 'rock']
+[u'bug', u'poison'] Defense Super Weaknesses: []
+[u'poison', u'fighting'] Attack Strengths: ['fairy', 'grass', 'normal', 'dark', 'steel', 'ice', 'rock']
+[u'poison', u'fighting'] Attack Weaknesses: ['steel', 'ghost', 'poison', 'rock', 'ground', 'bug', 'psychic', 'flying', 'fairy']
+[u'poison', u'fighting'] Defense Weaknesses: ['flying', 'ground']
+[u'poison', u'fighting'] Defense Super Weaknesses: ['psychic']
+[u'poison'] Attack Strengths: ['fairy', 'grass']
+[u'poison'] Attack Weaknesses: ['steel', 'ghost', 'poison', 'rock', 'ground']
+[u'poison'] Defense Weaknesses: ['psychic', 'ground']
+[u'poison'] Defense Super Weaknesses: []
+[u'flying', u'poison'] Attack Strengths: ['fighting', 'grass', 'bug', 'fairy']
+[u'flying', u'poison'] Attack Weaknesses: ['steel', 'electric', 'rock', 'ghost', 'poison', 'ground']
+[u'flying', u'poison'] Defense Weaknesses: ['electric', 'psychic', 'ice', 'rock']
+[u'flying', u'poison'] Defense Super Weaknesses: []
+[u'bug', u'poison'] Attack Strengths: ['grass', 'dark', 'bug', 'fairy']
+[u'bug', u'poison'] Attack Weaknesses: ['ghost', 'steel', 'flying', 'poison', 'fire', 'fairy', 'fighting', 'rock', 'ground']
+[u'bug', u'poison'] Defense Weaknesses: ['fire', 'psychic', 'flying', 'rock']
+[u'bug', u'poison'] Defense Super Weaknesses: []
+
+A couple grounds and mostly psychic, 1 is strong against psychic, 2/3/6 strong against dark
+
+sandile/natu
+-----------------------------------------------------------------------------------------------------------------
+
+Elite Four Member: Bruno
+Type: Fighting
+Pokémon: Hitmontop, Hitmonlee, Hitmonchan, Hariyama, Machamp, Mega Lucario
+
+Team: [[u'fighting'], [u'fighting'], [u'fighting'], [u'fighting'], [u'fighting'], [u'steel', u'fighting']]
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'fighting'] Attack Strengths: ['normal', 'dark', 'steel', 'ice', 'rock']
+[u'fighting'] Attack Weaknesses: ['ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'fighting'] Defense Weaknesses: ['psychic', 'flying', 'fairy']
+[u'fighting'] Defense Super Weaknesses: []
+[u'steel', u'fighting'] Attack Strengths: ['ice', 'rock', 'fairy', 'normal', 'dark', 'steel']
+[u'steel', u'fighting'] Attack Weaknesses: ['steel', 'electric', 'fire', 'water', 'ghost', 'poison', 'bug', 'psychic', 'flying', 'fairy']
+[u'steel', u'fighting'] Defense Weaknesses: ['fire', 'fighting', 'ground']
+[u'steel', u'fighting'] Defense Super Weaknesses: []
+
+Mostly weak to psychic, flying, fairy. Last is strong to fairy
+Medicham!
+
+-----------------------------------------------------------------------------------------------------------------
+
+Elite Four Member: Karen
+Type: Dark
+Pokémon: Weavile, Absol, Spiritomb, Honchkrow, Umbreon, Mega Houndoom
+
+Team: [[u'dark', u'ice'], [u'dark'], [u'ghost', u'dark'], [u'dark', u'flying'], [u'dark'], [u'fire', u'dark']]
+[u'dark', u'ice'] Attack Strengths: ['ghost', 'psychic', 'grass', 'ground', 'flying', 'dragon']
+[u'dark', u'ice'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'steel', 'water', 'fire', 'ice']
+[u'dark', u'ice'] Defense Weaknesses: ['steel', 'fire', 'rock', 'fairy', 'bug']
+[u'dark', u'ice'] Defense Super Weaknesses: ['fighting']
+[u'dark'] Attack Strengths: ['ghost', 'psychic']
+[u'dark'] Attack Weaknesses: ['dark', 'fairy', 'fighting']
+[u'dark'] Defense Weaknesses: ['fighting', 'fairy', 'bug']
+[u'dark'] Defense Super Weaknesses: []
+[u'ghost', u'dark'] Attack Strengths: ['ghost', 'psychic']
+[u'ghost', u'dark'] Attack Weaknesses: ['dark', 'normal', 'fairy', 'fighting']
+[u'ghost', u'dark'] Defense Weaknesses: ['fairy']
+[u'ghost', u'dark'] Defense Super Weaknesses: []
+[u'dark', u'flying'] Attack Strengths: ['ghost', 'psychic', 'fighting', 'grass', 'bug']
+[u'dark', u'flying'] Attack Weaknesses: ['dark', 'fairy', 'fighting', 'steel', 'electric', 'rock']
+[u'dark', u'flying'] Defense Weaknesses: ['electric', 'ice', 'rock', 'fairy']
+[u'dark', u'flying'] Defense Super Weaknesses: []
+[u'dark'] Attack Strengths: ['ghost', 'psychic']
+[u'dark'] Attack Weaknesses: ['dark', 'fairy', 'fighting']
+[u'dark'] Defense Weaknesses: ['fighting', 'fairy', 'bug']
+[u'dark'] Defense Super Weaknesses: []
+[u'fire', u'dark'] Attack Strengths: ['steel', 'grass', 'bug', 'ice', 'ghost', 'psychic']
+[u'fire', u'dark'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon', 'dark', 'fairy', 'fighting']
+[u'fire', u'dark'] Defense Weaknesses: ['water', 'fighting', 'rock', 'ground']
+[u'fire', u'dark'] Defense Super Weaknesses: []
+
+mostly weak to fairy
+azumarill!
+
+-----------------------------------------------------------------------------------------------------------------
+
+Champ: Lance
+Type: Dragon
+Pokémon: Altaria, Charizard, Dragonite, Garchomp, Gyarados, Mega Salamence
+
+Team: [[u'flying', u'dragon'], [u'fire', u'flying'], [u'flying', u'dragon'], [u'dragon', u'ground'], [u'water', u'flying'], [u'flying', u'dragon']]
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+[u'fire', u'flying'] Attack Strengths: ['steel', 'grass', 'bug', 'ice', 'fighting']
+[u'fire', u'flying'] Attack Weaknesses: ['water', 'rock', 'fire', 'dragon', 'steel', 'electric']
+[u'fire', u'flying'] Defense Weaknesses: ['electric', 'water']
+[u'fire', u'flying'] Defense Super Weaknesses: ['rock']
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+[u'dragon', u'ground'] Attack Strengths: ['dragon', 'steel', 'electric', 'rock', 'fire', 'poison']
+[u'dragon', u'ground'] Attack Weaknesses: ['steel', 'fairy', 'flying', 'grass', 'bug']
+[u'dragon', u'ground'] Defense Weaknesses: ['dragon', 'fairy']
+[u'dragon', u'ground'] Defense Super Weaknesses: ['ice']
+[u'water', u'flying'] Attack Strengths: ['fire', 'rock', 'ground', 'fighting', 'grass', 'bug']
+[u'water', u'flying'] Attack Weaknesses: ['dragon', 'water', 'grass', 'steel', 'electric', 'rock']
+[u'water', u'flying'] Defense Weaknesses: ['rock']
+[u'water', u'flying'] Defense Super Weaknesses: ['electric']
+[u'flying', u'dragon'] Attack Strengths: ['fighting', 'grass', 'bug', 'dragon']
+[u'flying', u'dragon'] Attack Weaknesses: ['steel', 'electric', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Weaknesses: ['dragon', 'rock', 'fairy']
+[u'flying', u'dragon'] Defense Super Weaknesses: ['ice']
+
+weak to ice/electric/water
+Totodile looks good here except for gyarados, maybe a rock backup? golem?
